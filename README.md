@@ -7,7 +7,7 @@
 
 
 ## Coefficients
-<img width="106" alt="{593CAC95-5DB7-4557-BC01-55750F465027}" src="https://github.com/user-attachments/assets/4db21ec3-55bd-4a8c-a580-128135260088" />
+<img width="166" alt="{805D9E2F-63B6-4DE2-A8D9-5C30D86DBE5F}" src="https://github.com/user-attachments/assets/6c7f2207-34ad-4d33-aa5c-703123f7d184" />
 
 
  ## Source code 
