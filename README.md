@@ -1,10 +1,16 @@
 # FIR_v2
 
-Filter Design with T Filter
+## Filter Design with T Filter
 <img width="813" alt="{D9E46021-2619-40FA-9DE1-4443AA5381BC}" src="https://github.com/user-attachments/assets/59ca4dd6-ac0f-4ba2-9122-8d677fbf0caa" />
 
 <img width="813" alt="{6D8EA0E2-0DC4-409C-9B1F-61BAC0279448}" src="https://github.com/user-attachments/assets/2c3ff73b-5b6f-45d0-b382-a56a7b29fa26" />
 
+
+## Coefficients
+<img width="106" alt="{593CAC95-5DB7-4557-BC01-55750F465027}" src="https://github.com/user-attachments/assets/4db21ec3-55bd-4a8c-a580-128135260088" />
+
+
+ ## Source code 
 #ifndef SAMPLEFILTER_H_
 #define SAMPLEFILTER_H_
 
